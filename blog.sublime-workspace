@@ -1,0 +1,985 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setting",
+				"settings"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"Sta",
+				"StackItem"
+			],
+			[
+				"S",
+				"Selector"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"set",
+				"setStatus"
+			],
+			[
+				"sta",
+				"statusDefault"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"st",
+				"statusDefault"
+			],
+			[
+				"get",
+				"getNode"
+			],
+			[
+				"wi",
+				"whitespacePattern"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"sc",
+				"src"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"contact",
+				"contactlist"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"per",
+				"person3"
+			],
+			[
+				"person",
+				"person1"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tim",
+				"timestamps"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"the",
+				"thePainting"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"lo",
+				"localhost"
+			],
+			[
+				"theS",
+				"theSpecialty"
+			],
+			[
+				"dir",
+				"directions"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"fl",
+				"flags"
+			],
+			[
+				"ta",
+				"takeUnknown"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"n",
+				"nargs"
+			],
+			[
+				"com",
+				"CommandHandler"
+			],
+			[
+				"load",
+				"loadMUDObject"
+			],
+			[
+				"find",
+				"findActivePlayerByConnection"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"look",
+				"lookContents"
+			],
+			[
+				"can",
+				"canDoIt"
+			],
+			[
+				"exi",
+				"exit"
+			],
+			[
+				"pre",
+				"predicates"
+			],
+			[
+				"o",
+				"other"
+			],
+			[
+				"string",
+				"strings"
+			],
+			[
+				"Comma",
+				"CommandHandler"
+			],
+			[
+				"ac",
+				"activatePlayer"
+			],
+			[
+				"Comm",
+				"CommandHandler"
+			],
+			[
+				"up",
+				"updatePropertyInternal"
+			],
+			[
+				"property",
+				"propertyName"
+			],
+			[
+				"target",
+				"targetName"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"proper",
+				"propertyName"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"ar",
+				"argsArr"
+			],
+			[
+				"allo",
+				"allowMe"
+			],
+			[
+				"fail",
+				"failMsg"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"requ",
+				"requireDescription"
+			],
+			[
+				"stri",
+				"strings"
+			],
+			[
+				"ambig",
+				"ambigMsg"
+			],
+			[
+				"am",
+				"ambigMsg"
+			],
+			[
+				"all",
+				"allowHere"
+			],
+			[
+				"esc",
+				"escName"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"me",
+				"me"
+			],
+			[
+				"fatalE",
+				"FatalError"
+			],
+			[
+				"comp",
+				"complete"
+			],
+			[
+				"other",
+				"otherconn"
+			],
+			[
+				"loc",
+				"locationId"
+			],
+			[
+				"ter",
+				"terminate"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"ap",
+				"apconn"
+			],
+			[
+				"app",
+				"applyToActivePlayers"
+			],
+			[
+				"activ",
+				"activePlayers"
+			],
+			[
+				"command",
+				"commandStr"
+			],
+			[
+				"args",
+				"argsStr"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"fir",
+				"firstSpace"
+			],
+			[
+				"sequ",
+				"Sequelize"
+			],
+			[
+				"new",
+				"newIndex"
+			],
+			[
+				"succ",
+				"successMessage"
+			],
+			[
+				"sen",
+				"sendMessage"
+			],
+			[
+				"oher",
+				"othersFailureMessage"
+			],
+			[
+				"fa",
+				"failureMessage"
+			],
+			[
+				"pla",
+				"playerConn"
+			],
+			[
+				"do",
+				"doit"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"key",
+				"keyId"
+			],
+			[
+				"cll",
+				"callback"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"flag",
+				"flagbit"
+			],
+			[
+				"A",
+				"allowNull"
+			],
+			[
+				"da",
+				"DataTypes"
+			],
+			[
+				"seq",
+				"sequlize"
+			],
+			[
+				"db",
+				"dbUrl"
+			],
+			[
+				"Com",
+				"CommandHandler"
+			],
+			[
+				"fli",
+				"flight"
+			],
+			[
+				"Fli",
+				"FlightSchema"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"Fi",
+				"FlightSchema"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"hide",
+				"hideWards"
+			],
+			[
+				"show",
+				"showCrimeHeatmap"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sports",
+				"sportsCentreNearby"
+			],
+			[
+				"tenni",
+				"tennisNearby"
+			],
+			[
+				"socc",
+				"soccerNearby"
+			],
+			[
+				"canoe",
+				"canoeNearby"
+			],
+			[
+				"bask",
+				"basketballNearby"
+			],
+			[
+				"mall",
+				"mallAndFurnitureNearby"
+			],
+			[
+				"vari",
+				"varietyStoreNearby"
+			],
+			[
+				"super",
+				"supermarketNearby"
+			],
+			[
+				"hair",
+				"hairdresserNearby"
+			],
+			[
+				"ele",
+				"electronicsNearby"
+			],
+			[
+				"clot",
+				"clothesAndShoesNearby"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 3171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/posts/admin.py",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bowenzhong/Desktop/Job_Preparation/Python3/DjangoBlog/ENV/blog/blog/urls.py",
+		"/Users/bowenzhong/Desktop/Job_Preparation/Python3/DjangoBlog/ENV/blog/blog/settings.py",
+		"/Users/bowenzhong/Desktop/Job_Preparation/Python3/DjangoBlog/ENV/blog/posts/migrations/__init__.py",
+		"/Users/bowenzhong/Desktop/stack-spider-2/stack/stack/spiders/stack_crawler.py",
+		"/Users/bowenzhong/Desktop/stack-spider-2/stack/stack/settings.py",
+		"/Users/bowenzhong/Desktop/stack-spider-2/stack/stack/pipelines.py",
+		"/Users/bowenzhong/Desktop/Job_Preparation/Python3/Web_Scraping/ENV/stack/stack/spiders/stack_spider",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/static/main.jd",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/templates/inventory/index.html",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/templates/inventory/item_detail.html",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/settings.py",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/templates/base.html",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/templates/inventory/base.html",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/templates/item_detail.html",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/firstdjango/urls.py",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/inventory/apps.py",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/inventory/models.py",
+		"/Users/bowenzhong/Desktop/Job Preparation/Python 3/Python Django/firstdjango/inventory/admin.py",
+		"/Users/bowenzhong/Desktop/Job Preparation/NodeJS/social network/server/server,js",
+		"/Users/bowenzhong/Desktop/laravel/authapp/app/Http/Kernel.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/resources/views/register.blade.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/app/Http/Controllers/RegisterController.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/resources/views/thanks.blade.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/composer.json",
+		"/Users/bowenzhong/Desktop/laravel/authapp/config/app.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/app/Http/Controllers/Controller.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/database/migrations/2015_12_02_014121_create_users.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/database/seeds/UsersTableSeeder.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/database/seeds/DatabaseSeeder.php",
+		"/Users/bowenzhong/Desktop/laravel/authapp/config/database.php",
+		"/Library/WebServer/Documents/newapp/.env",
+		"/Library/WebServer/Documents/newapp/config/database.php",
+		"/Library/WebServer/Documents/newapp/app/User.php",
+		"/Library/WebServer/Documents/newapp/database/migrations/2015_12_01_061915_create_users_table.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Controllers/AboutController.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Controllers/Controller.php",
+		"/Library/WebServer/Documents/newapp/resources/views/signup.blade.php",
+		"/Library/WebServer/Documents/newapp/resources/views/thanks.blade.php",
+		"/Library/WebServer/Documents/newapp/config/app.php",
+		"/Library/WebServer/Documents/newapp/composer.json",
+		"/Library/WebServer/Documents/newapp/resources/views/layouts/main.blade.php",
+		"/Library/WebServer/Documents/newapp/resources/views/graphic-design.blade.php",
+		"/Library/WebServer/Documents/newapp/resources/views/programs.blade.php",
+		"/Library/WebServer/Documents/newapp/resources/views/about.blade.php",
+		"/Library/WebServer/Documents/newapp/public/css/main.css",
+		"/Library/WebServer/Documents/newapp/resources/views/welcome.blade.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Controllers/Auth/PasswordController.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Controllers/Auth/AuthController.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Middleware/Vote.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Middleware/OldMiddleware.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Kernel.php",
+		"/Library/WebServer/Documents/newapp/app/Http/Middleware/Authenticate.php",
+		"/Library/WebServer/Documents/newapp/app/Providers/RouteServiceProvider.php",
+		"/Library/WebServer/Documents/newapp/resources/assets/css/main.css",
+		"/Library/WebServer/Documents/newapp/resources/css/main.css",
+		"/Library/WebServer/Documents/newapp/resources/assets/sass/app.scss",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/scripts/CommandHandler.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/models/MUDObject.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/models/index.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/scripts/Strings.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/data/small.json",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/scripts/PropertyHandler.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/scripts/Predicates.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/scripts/Controller.js",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/public/css/jquery.terminal.css",
+		"/Users/bowenzhong/Desktop/zbw322092-CW1-master/package.json",
+		"/Users/bowenzhong/Desktop/pratice MUD code/data/small.json",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/CommandHandler.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/Controller.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/Strings.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/PropertyHandler.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/pr",
+		"/Users/bowenzhong/Desktop/pratice MUD code/models/index.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/models/MUDObject.js",
+		"/Users/bowenzhong/Desktop/pratice MUD code/scripts/Predicates.js",
+		"/Users/bowenzhong/Desktop/start/db.js",
+		"/Users/bowenzhong/Desktop/start/data/index.js",
+		"/Users/bowenzhong/Desktop/start/schemas/flight.js",
+		"/Users/bowenzhong/Desktop/start/server.js",
+		"/Users/bowenzhong/Desktop/start/views/list.jade",
+		"/Users/bowenzhong/Desktop/start/views/layout.jade",
+		"/Users/bowenzhong/Desktop/start/app.js",
+		"/Users/bowenzhong/airline/routes/user.js",
+		"/Users/bowenzhong/Desktop/Ex_Files_Node_JS_EssT/Exercise Files/chap04/02/start/app.js",
+		"/Applications/MAMP/htdocs/test_map/heatmap.js",
+		"/Users/bowenzhong/Desktop/testing.html",
+		"/Users/bowenzhong/Desktop/right-click version",
+		"/Applications/MAMP/htdocs/test_map/data/bakery_2.geojson",
+		"/Users/bowenzhong/Desktop/overpass_individual/shop/bakery.geojson",
+		"/Users/bowenzhong/Desktop/experience.js",
+		"/Users/bowenzhong/Desktop/test1",
+		"/Applications/MAMP/htdocs/test_map/nearby.js",
+		"/Users/bowenzhong/Desktop/test.html",
+		"/Applications/MAMP/htdocs/test_map/geosearch.js",
+		"/Applications/MAMP/htdocs/test_map/direction.js",
+		"/Applications/MAMP/htdocs/test_map/test.html",
+		"/Applications/MAMP/htdocs/test_map/southampton_ward.geojson",
+		"/Applications/MAMP/htdocs/text/text1.php",
+		"/Applications/MAMP/htdocs/text/n1.php",
+		"/Users/bowenzhong/Desktop/aeroway",
+		"/Users/bowenzhong/Desktop/text1.php",
+		"/Users/bowenzhong/Desktop/crime_2015_05.geojson",
+		"/Applications/MAMP/htdocs/test_map/example_1.html",
+		"/Users/bowenzhong/Desktop/Final_Project_Application/A Southampton leaflet map.html",
+		"/Users/bowenzhong/Desktop/untitled",
+		"/Users/bowenzhong/Desktop/Final_Project_Data/Data/Transport/NaPTAN_Reference_Data:Southampton/NaPTAN198.xml",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/index.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/shirts.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/inc/products.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/form.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/contact-thanks.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/contact-process.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/inc/footer.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/inc/header.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/contact.php",
+		"/Applications/MAMP/htdocs/Bowen_Shirt/index.html",
+		"/Users/bowenzhong/Desktop/DealsFinder/home_page.html",
+		"/Users/bowenzhong/Desktop/collapse.html",
+		"/Users/bowenzhong/Desktop/try.html",
+		"/Users/bowenzhong/Desktop/data.json",
+		"/Users/bowenzhong/Desktop/v2.html",
+		"/Applications/MAMP/htdocs/tree_example/dndTree.js",
+		"/Applications/MAMP/htdocs/self/tree.js",
+		"/Users/bowenzhong/Desktop/tip_try/tree.js",
+		"/Users/bowenzhong/Desktop/tip_try/index.html",
+		"/Users/bowenzhong/Desktop/d3-tip/example_2/d3-tip2.html",
+		"/Users/bowenzhong/Desktop/Visualisation Codes/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Library/WebServer/Documents/newapp",
+			"/Library/WebServer/Documents/newapp/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ValidatesRequests",
+			"<?",
+			"filter",
+			"fliter",
+			"auth.basic",
+			"welcome",
+			"lock",
+			"flags",
+			"loadMUDObject",
+			"owner",
+			"host",
+			"200 ok",
+			"201 created",
+			"put",
+			"single book",
+			"POST",
+			"PATCH",
+			"PUT",
+			"all books",
+			"status",
+			"borrower",
+			"action",
+			"getTarget",
+			"set",
+			"ambigSet",
+			"getLocation",
+			"terminates",
+			"door",
+			"getContents",
+			"sendmessage",
+			"busstop",
+			"	mallAndFurnitureNearby = L.geoJson.ajax(\"data/overpass/mall_and_furniture.geojson\", {\n		pointToLayer: function(feature, LatLng) {\n			if (L.latLng(markerLat, markerLng).distanceTo(LatLng) < 1000) {\n				return L.marker(LatLng, {icon: mallAndFurnitureIcon}).bindPopup(feature.properties.amenity);\n			} else {\n				return L.marker(LatLng,{opacity: 0});\n			}\n		}\nsports",
+			"bakery",
+			"Bicycle",
+			"Polygon",
+			"\"type\": \"Polygon\"",
+			"\"public_transport\": \"platform\"",
+			"point",
+			"-1.3800565\n-1.3800565",
+			";\n",
+			"aria-expanded",
+			"\"amenity\": \"bank\"",
+			"\"addr:street\"",
+			"addr",
+			"drive_through",
+			"LloydsTSB",
+			"feature",
+			"aeroway",
+			"aerodrome",
+			"aeroway",
+			"cafe",
+			"bank",
+			"restaurant",
+			"atm",
+			"bank",
+			"supermarket",
+			"bank",
+			"restaurant",
+			"asda",
+			"shop",
+			"atm",
+			"bank",
+			"school",
+			"Oasis Academy Lord's Hill",
+			"school",
+			"hospital",
+			"atm",
+			"school",
+			"bank",
+			"hospital",
+			"7015694",
+			"300713088",
+			"677737326",
+			"restaurant",
+			"cafe",
+			"bar",
+			"tower",
+			"bank",
+			"drinking",
+			"post_office",
+			"post",
+			"pos",
+			"post",
+			"post office",
+			"school",
+			"library",
+			"shopping",
+			"food",
+			"bank",
+			"post",
+			"post_office",
+			"atm",
+			"bank",
+			"apartments",
+			"bank",
+			"park",
+			"supermarket",
+			"fast",
+			"bar",
+			"on shirt",
+			"/*!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/posts/models.py",
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/blog/settings.py",
+					"settings":
+					{
+						"buffer_size": 3171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1073,
+								1073
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 375.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/posts/admin.py",
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
