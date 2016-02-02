@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
+{% extends "base.html" %}
+{% block content %}
 
-<body>
+		
 	<h1>{{ title }} is working!</h1>
 
 	{% for obj in object_list %}
@@ -14,5 +14,6 @@
 	{{ obj.id }}<br/>
 
 	{% endfor %}
-</body>
-</html>
+
+
+{% endblock content %}
