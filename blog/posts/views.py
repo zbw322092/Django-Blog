@@ -3,6 +3,7 @@ from django.contrib import messages
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.shortcuts import render, get_object_or_404, redirect
+from django.utils import timezone
 
 from .forms import PostForm
 from .models import Post
@@ -30,6 +31,9 @@ def post_create(request):
 
 def post_detail(request, slug=None): #retrieve
 	instance = get_object_or_404(Post, slug=slug)
+	if instance.draft or instance.publish > timezone.now().date() :
+		if not request.user.is_staff or not request.user.is_superuser:
+			raise Http404
 	share_string = quote_plus(instance.content)
 	context = {
 		"title": instance.title,
@@ -39,8 +43,11 @@ def post_detail(request, slug=None): #retrieve
 	return render(request, "post_detail.html", context)
 
 def post_list(request):
-	queryset_list = Post.objects.all().order_by("-timestamp")
-	paginator = Paginator(queryset_list, 2) # Show 25 contacts per page
+	today = timezone.now().date()
+	queryset_list = Post.objects.active()#.order_by("-timestamp")
+	if request.user.is_staff or request.user.is_superuser:
+		queryset_list = Post.objects.all()
+	paginator = Paginator(queryset_list, 10) # Show 10 contacts per page
 	page_request_var = "page"
 	page = request.GET.get(page_request_var)
 	try:
@@ -55,7 +62,8 @@ def post_list(request):
 	context = {
 		"object_list": queryset,
 		"title": "List",
-		"page_request_var": page_request_var
+		"page_request_var": page_request_var,
+		"today": today,
 	}			
 	return render(request, "post_list.html", context)
 
